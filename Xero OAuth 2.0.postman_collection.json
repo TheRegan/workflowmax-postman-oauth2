@@ -154,7 +154,7 @@
 					}
 				],
 				"url": {
-					"raw": "https://api.xero.com/workflowmax/3.0/client.api/list",
+					"raw": "https://api.xero.com/practicemanager/3.0/client.api/list",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -162,7 +162,7 @@
 						"com"
 					],
 					"path": [
-						"workflowmax",
+						"practicemanager",
 						"3.0",
 						"client.api",
 						"list"
